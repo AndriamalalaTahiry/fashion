@@ -1,4 +1,4 @@
-@media (max-width: 1320px) {
+
 .container {
     display: grid;
     grid-template-rows: 40px 400px 300px;
@@ -450,7 +450,7 @@ background-color: aqua;
 .img-20 {
     display: none;
 }
-}
+
 
 /* Media query for devices with a max width of 1024px (e.g., tablets) */
 @media (max-width: 1024px) {
